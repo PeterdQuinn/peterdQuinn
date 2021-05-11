@@ -1,6 +1,4 @@
-My name is Peter Quinn and I just transitioned over into the the tech work. I am currently looking to network and grow my skills as a web devloper.
-
-
+My name is Peter Quinn and I just transitioned into Software Dev, I recently graduated The Univesity of Arizona coding boot camp. I am currently looking to network and grow my skills as a developer.
 
 
 
