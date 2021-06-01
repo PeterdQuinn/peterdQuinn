@@ -1,12 +1,5 @@
-My name is Peter Quinn and I just transitioned into Software Dev, I recently graduated The Univesity of Arizona coding boot camp. I am currently looking to network and grow my skills as a developer.
-
-
-
-
-
-
-
-
+Hello and my name is Peter Quinn, I recently graduated the University of Arizona coding bootcamp. I am currently looking for work as MERN developer, or a carrer as 
+an react developer. Currently expierenced in the following.
 -Html/CSS/Git/Advanced CSS
 -JavaScript/jQuery
 -Web API'S
