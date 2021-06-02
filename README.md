@@ -21,7 +21,7 @@ an react developer. Currently experience in the following.
 -JSON
 -GraphQl Server
 
-My background as a student-athlete in High School I was apart of a championship as a 13 year old and graduated the state of Arizona at 15 but stayed enrolled until I was 18 years old to play sports. Afer high school I began working with children with autism from ages 18 to 33. In that time I was able to win another basketball championship as a coach for the special olympics. After I decided to transition into computers, and technology.
+My background as a student-athlete in High School I was apart of a championship as a 13 year old and graduated the state of Arizona at 15 but stayed enrolled until I was 18 years old to play sports. After high school I began working with children with autism from ages 18 to 33. In that time I was able to win another basketball championship as a coach for the special olympics. After I decided to transition into computers, and technology.
 
 
 
