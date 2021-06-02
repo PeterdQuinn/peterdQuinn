@@ -1,5 +1,7 @@
 Hello and my name is Peter Quinn, I recently graduated the University of Arizona coding bootcamp. I am currently looking for work as MERN developer, or a career as 
-an react developer. Currently experience in the following.
+a react developer. Currently experience in the following.
+
+
 -Html/CSS/Git/Advanced CSS
 -JavaScript/jQuery
 -Web API'S
