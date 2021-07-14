@@ -1,30 +1,6 @@
-Hello and my name is Peter Quinn, I recently graduated the University of Arizona coding bootcamp. I am currently looking for work as MERN developer, or a career as 
-a react developer. Currently experienced in the following.
-
-
--Html/CSS/Git/Advanced CSS
--JavaScript/jQuery
--Web API'S
--Third-Party API's
--Server-side APIs
--Node.js
--Object- Oriented-Programming(OOP)
--Express.js
--SQL
--Object-Relational-Mapping (ORM)
--Model-View-Controller(MVC)
--NoSQL
--Progressive Web Applications (PWA)
--React
--MERN ( Mango, Express, React, Node )
--Tailwinds CSS
--Handlebars
--Restful Servers
--JSON
--GraphQl Server
-
-My background as a student-athlete in High School I was apart of a championship as a 13 year old and graduated the state of Arizona at 15 but stayed enrolled until I was 18 years old to play sports. After high school I began working with children with autism from ages 18 to 33. In that time I was able to win another basketball championship as a coach for the special olympics. After I decided to transition into computers, and technology.
-
-
+Hello, my name is Peter Quinn. I recently graduated the University of Arizona coding bootcamp earning a certificate in Full Stack Web Development. I am currently looking for work as a MERN or React developer.
+ During my recent and intensive coursework, I gained experience in the following:
+Html/CSS/Git/Advanced CSS -JavaScript/jQuery -Web API'S -Third-Party API's -Server-side APIs -Node.js -Object- Oriented-Programming (OOP) -Express.js -SQL -Object-Relational-Mapping (ORM) -Model-View-Controller (MVC) -NoSQL -Progressive Web Applications (PWA) -React -MERN ( Mango, Express, React, Node ) -Tailwinds CSS -Handlebars -Restful Servers -JSON -GraphQl Server
+My background begins as a student-athlete in high school where I was lucky to be a part of a championship basketball team as early as 13 years old. Completing all necessary high school course work at 15, I chose to stay enrolled until I was 18 in order to continue playing sports. After high school, I began working with children with autism and gradually extended my expertise to include adults, ages 18 to 33.  In that time, I was able to win another basketball championship, this time as a coach for the Special Olympics. After a decade of working within this behavioral niche I have been inspired to change directions and am following a path and passion transitioning into computers and technology.
 
 
