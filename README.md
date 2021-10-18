@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-Email :    Peterdquinnsr@gmail.com
-LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
-Github:    https://peterdquinn.github.io/Peter-Quinn-Portfolio 
-PDF: https://docs.google.com/document/d/12ADW-9dQaaUikoDubHDfpEjPOgPZfhKGx69B8ipWpZQ/edit?usp=sharing
+📫 Email : Peterdquinnsr@gmail.com
+    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
+    Github:    https://peterdquinn.github.io/Peter-Quinn-Portfolio 
+    PDF: https://docs.google.com/document/d/12ADW-9dQaaUikoDubHDfpEjPOgPZfhKGx69B8ipWpZQ/edit?usp=sharing
 
 
 
