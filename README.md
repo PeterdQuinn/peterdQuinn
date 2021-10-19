@@ -3,10 +3,10 @@
 
 ## I'm a Father, Educator , and Full Stack Web Developer!
 - 📚    I’m currently learning DAPPS,DeFI,NFTs and the creating of crypto currency! 
-- 💱    I’m currently learning languages for smart contracts and protocols for Blockchains.
--  💲    I’m looking to start my career as a web developer
+- 💱    I’m currently learning languages for smart contracts and protocols for blockchains.
+-  💲    I’m looking to start my career as a web developer.
 - 🖥️    2021 Goals: Move foward into 2022 in Technology.
-- 🧑‍🏫  Information about me: Worked in special education for the last 15 years, I love learning DAPPS; I Think blockchains are amazing
+- 🧑‍🏫  Information about me: served  in special education for the last 15 years, I love learning DAPPS; I Think blockchains are amazing
 -  ✔️   I am learning how to mint nfts on the Tezos Blockchain
 
   
