@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Peter Quinn] 👋
 
-## I'm a Father, Educator , and Full Stack Web Developer!
+## I'm a father, educator , and full stack web developer!
 - 📚    I’m currently learning DAPPS,DeFI,NFTs and the creating of crypto currency! 
 - 💱    I’m currently learning languages for smart contracts and protocols for blockchains.
 -  💲    I’m looking to start my career as a web developer.
