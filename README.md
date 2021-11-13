@@ -7,7 +7,7 @@
 -  🖥️      I’m looking to start my career as a web developer.
 -  💲       2021 Goals: Move foward into 2022 in technology.
 -  🏫      About me: Worked in special education for the last 15 years, I love learning about Dapps and Crypto ; blockchains are amazing
--  ✔️      I am learning how to mint nfts on the tezos blockchain
+-  ✔️      I am learning how to mint nfts on the Sol blockchain
 
   
 
