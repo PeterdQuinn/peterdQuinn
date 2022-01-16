@@ -2,11 +2,11 @@
 ### Hi there, I'm [Peter Quinn] 👋
 
 ## I'm a father, educator , and full stack web developer!
--  📚      I’m currently learning DAPPS,DeFI,NFTs and the creating of crypto currency! 
+-  📚      I’m currently learning DAPPS,DeFI,NFTs and the creating of crypto currency tokens.
 -  💱      I’m currently learning languages for smart contracts and protocols for blockchains.
 -  🖥️      I’m looking to start my career as a web developer.
--  💲       2021 Goals: Move foward into 2022 in technology.
--  🏫      About me: Worked in special education for the last 15 years, I love learning about Dapps and Crypto ; blockchains are amazing
+-  💲       2022 Goals: Become stronger devloper in rust, learn smart contracts on a deeper level.
+-  🏫      About me: I Love devloping new skills for my web development in blockchains,Nfts, and web 3.0
 -  ✔️      I am learning how to mint nfts on the Sol blockchain
 
   
