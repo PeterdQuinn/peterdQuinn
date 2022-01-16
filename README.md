@@ -5,8 +5,8 @@
 -  📚      I’m currently learning DAPPS,DeFI,NFTs and the creating of crypto currency tokens.
 -  💱      I’m currently learning languages for smart contracts and protocols for blockchains.
 -  🖥️      I’m looking to start my career as a web developer.
--  💲       2022 Goals: Become stronger devloper in rust, learn smart contracts on a deeper level.
--  🏫      About me: I Love devloping new skills for my web development in blockchains,Nfts, and web 3.0
+-  💲       2022 Goals: Become more proficient in web design as well as adding to blockchain and creating Nfts.
+-  🏫      About me: I am involved in the Sol community. I love crypto,nfts, and blockchain technologies.
 -  ✔️      I am learning how to mint nfts on the Sol blockchain
 
   
