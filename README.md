@@ -7,7 +7,7 @@
 -  🖥️      I’m looking to start my career as a web developer.
 -  💲       2022 Goals: Become more proficient in web design as well as adding to blockchain and creating Nfts.
 -  🏫      About me: I am involved in the Sol community. I love crypto,nfts, and blockchain technologies.
--  ✔️      I am learning how to mint nfts on the Sol blockchain
+-  ✔️      I am know how to mint nfts on the Sol blockchain.
 
   
 
