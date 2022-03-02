@@ -15,7 +15,7 @@
 
 📫 Email : Peterdquinnsr@gmail.com
     LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
-    Portfolio: react port- https://react-resume-peter-quinn.herokuapp.com/   
+    Portfolio: https://react-resume-peter-quinn.herokuapp.com/   
     PDF: https://docs.google.com/document/d/12ADW-9dQaaUikoDubHDfpEjPOgPZfhKGx69B8ipWpZQ/edit?usp=sharing
 
 
