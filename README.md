@@ -2,7 +2,7 @@
 ### Hi there, I'm [Peter Quinn] 👋
 
 ## I'm a father, educator , and full stack web developer!
--  📚      I’m currently know DAPPS,DeFI,NFTs and the creating of crypto currency tokens.
+-  📚      I understand DAPPS,DeFI,NFTs and the creating of crypto currency tokens.
 -  💱      I’m currently know languages for smart contracts and protocols for blockchains.
 -  🖥️      I love developing crypto currency applications, And Full stack websites (M.E.R.N)
 -  💲       2022 Goals: Become more proficient in web design as well as adding to blockchain and creating Nfts.
