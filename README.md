@@ -7,7 +7,7 @@
 -  🖥️      I love developing crypto currency applications, And Full stack websites (M.E.R.N)
 -  💲       2022 Goals: Become more proficient in web design as well as adding to blockchain and creating Nfts.
 -  🏫      About me: I am involved in the Sol community. I love crypto, nfts, and blockchain technologies.
--  ✔️      I love developing blockchain applications.
+-  ✔️      React is my favorite front end language.
 
   
 
