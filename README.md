@@ -11,10 +11,10 @@
 
   
 
-### Connect with me:
+### My Social Media ###
 
-📫 Email : Peterdquinnsr@gmail.com
-🌏  LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
+📫    Email : Peterdquinnsr@gmail.com
+🌏    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
 💼    Portfolio: https://react-resume-peter-quinn.herokuapp.com/   
 💼    PDF:https://docs.google.com/document/d/1lveIKvwGB1i0KADZNCK7dp4uh19LDY43k6Mer8hb6vU/edit?usp=sharing
 💼    Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
