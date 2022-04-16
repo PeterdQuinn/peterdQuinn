@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Peter Quinn] 👋
+### Hi there, my name is  Peter Quinn 👋
 
 ## I'm a father, educator , and full stack web developer!
 -  📚      I have a deep understanding of the blockchain,Defi,Nfts and crypto currency.
