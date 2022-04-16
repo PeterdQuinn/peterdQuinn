@@ -5,9 +5,9 @@
 -  📚      I have a deep understanding of the blockchain,Defi,Nfts and crypto currency.
 -  💱      Deep understanding of smart contracts for different blockchains ecosystems.
 -  🖥️      Deep understanding of the M.E.R.N stack.
--  💲      Freelance web developer, Looking to move into blockchain development
--  🏫      
+-  🌏      Freelance web developer, Looking to move into blockchain development
 -  ✔️      Certified Full stack web developer.
+-  📑      Skilled at many different languages. 
 
   
 
