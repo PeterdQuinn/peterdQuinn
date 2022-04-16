@@ -14,10 +14,10 @@
 ### Connect with me:
 
 📫 Email : Peterdquinnsr@gmail.com
-    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
-    Portfolio: https://react-resume-peter-quinn.herokuapp.com/   
-    PDF:https://docs.google.com/document/d/1lveIKvwGB1i0KADZNCK7dp4uh19LDY43k6Mer8hb6vU/edit?usp=sharing
-    Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
+🌏  LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/
+💼    Portfolio: https://react-resume-peter-quinn.herokuapp.com/   
+💼    PDF:https://docs.google.com/document/d/1lveIKvwGB1i0KADZNCK7dp4uh19LDY43k6Mer8hb6vU/edit?usp=sharing
+💼    Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
