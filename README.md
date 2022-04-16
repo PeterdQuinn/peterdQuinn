@@ -2,12 +2,12 @@
 ### Hi there, I'm [Peter Quinn] 👋
 
 ## I'm a father, educator , and full stack web developer!
--  📚      I understand DAPPS,DeFI,NFTs and the creating of crypto currency tokens.
--  💱      I’m currently know languages for smart contracts and protocols for blockchains.
--  🖥️      I love developing crypto currency applications, And Full stack websites (M.E.R.N)
--  💲       2022 Goals: Become more proficient in web design as well as adding to blockchain and creating Nfts.
--  🏫      About me: I am involved in the Sol community. I love crypto, nfts, and blockchain technologies.
--  ✔️      React is my favorite front end language.
+-  📚      I have a deep understanding of the blockchain,Defi,Nfts and crypto currency.
+-  💱      Deep understanding of smart contracts for different blockchains ecosystems.
+-  🖥️      Deep understanding of the M.E.R.N stack.
+-  💲      Freelance web developer, Looking to move into blockchain development
+-  🏫      
+-  ✔️      Certified Full stack web developer.
 
   
 
