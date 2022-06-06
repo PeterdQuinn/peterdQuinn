@@ -1,5 +1,5 @@
 
-### My name is Peter Quinn 👋
+### My name is Peter 👋
 
 ## I'm a father, educator , full stack web developer , crypto  and blockchain addict!
 -  💻      I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
@@ -8,6 +8,8 @@
 -  📘      Freelance web developer, Looking to move into blockchain development
 -  ✔️      Certified Full stack web developer.
 -  📑      Proficient in many different programming languages.
+-  💼      Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
+
 
   
 
@@ -16,8 +18,6 @@
 📫    Email : Peterdquinnsr@gmail.com
 🌏    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/  
 💼    https://docs.google.com/document/d/1lveIKvwGB1i0KADZNCK7dp4uh19LDY43k6Mer8hb6vU/edit?usp=sharing
-💼    Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
-💼    Personal Portfolio :     http://personal-woad.vercel.app/ 
 
 
 
