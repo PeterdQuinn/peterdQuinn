@@ -5,7 +5,7 @@
 -  💻      I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
 -  ⛓       Deep understanding of smart contracts for different blockchains ecosystems.
 -  🌐      Deep understanding of the M.E.R.N stack.
--  📘      Freelance web developer, Looking to move into blockchain development
+-  📘      Freelance web developer
 -  ✔️      Certified Full stack web developer.
 -  📑      Proficient in many different programming languages.
 -  💼      Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
