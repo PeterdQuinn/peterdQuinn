@@ -1,7 +1,8 @@
 
-### My name is Peter 👋
+### 👋
 
-## I'm a father, educator , full stack web developer , crypto  and blockchain addict!
+
+-  💻      Deep understand of SQL and SQL Server  
 -  💻      I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
 -  ⛓       Deep understanding of smart contracts for different blockchains ecosystems.
 -  🌐      Deep understanding of the M.E.R.N stack.
