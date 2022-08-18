@@ -2,7 +2,7 @@
 ### 👋
 
 
--  💻      Deep understand of SQL and SQL Server  
+-  💻      SQL and SQL Server  
 -  💻      I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
 -  ⛓       Deep understanding of smart contracts for different blockchains ecosystems.
 -  🌐      Deep understanding of the M.E.R.N stack.
