@@ -13,7 +13,7 @@
 ### My Social Media ###
 -  📫    Email : Peterdquinnsr@gmail.com
 -  🌏    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/  
--  💼    https://docs.google.com/document/d/1lveIKvwGB1i0KADZNCK7dp4uh19LDY43k6Mer8hb6vU/edit?usp=sharing
+-  💼    https://docs.google.com/document/d/1aIlXpv38gc0qjqgslMB5B49yoCcY5bGJWq7tRd5G6b8/edit?usp=share_link
 
 -Web 3 portfolio-
 -  https://personal-woad.vercel.app/
