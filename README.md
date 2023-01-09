@@ -2,19 +2,19 @@
 ### 👋
 
 
--  💻      SQL and SQL Server  
--  💻      I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
--  ⛓       Deep understanding of smart contracts for different blockchains ecosystems.
--  🌐      Deep understanding of the M.E.R.N stack.
--  📘      Freelance web developer
--  ✔️      Certified Full stack web developer.
--  📑      Proficient in many different programming languages.
--  💼      Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
+-  💻     SQL and SQL Server  
+-  💻     I have a deep understanding of the blockchain, migrations(smart contracts), Defi, Nfts and crypto currency.
+-  ⛓     Deep understanding of smart contracts for different blockchains ecosystems.
+-  🌐    Deep understanding of the M.E.R.N stack.
+-  📘    Freelance web developer
+-  ✔️     Certified Full stack web developer.
+-  📑    Proficient in many different programming languages.
+-  💼    Buisness Porfolio : https://peterdquinn.github.io/Buisness-portfolio/
 ### My Social Media ###
 -  📫    Email : Peterdquinnsr@gmail.com
 -  🌏    LinkedIn:  https://www.linkedin.com/in/peter-quinn-73ab78200/  
 -  💼    https://docs.google.com/document/d/1aIlXpv38gc0qjqgslMB5B49yoCcY5bGJWq7tRd5G6b8/edit?usp=share_link
-
+-  💼    Employed in the organics community
 -Web 3 portfolio-
 -  https://personal-woad.vercel.app/
 
