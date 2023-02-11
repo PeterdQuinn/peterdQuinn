@@ -1,7 +1,8 @@
  
 -  💼    http://www.peterdquinn.com/
--  💼    https://docs.google.com/document/d/1aIlXpv38gc0qjqgslMB5B49yoCcY5bGJWq7tRd5G6b8/edit?usp=share_link
 
+
+[Peter Quinn Resume.pdf](https://github.com/PeterdQuinn/peterdQuinn/files/10714899/Peter.Quinn.Resume.pdf)
 
 
 
