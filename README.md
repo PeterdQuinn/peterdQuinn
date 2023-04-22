@@ -1,7 +1,7 @@
  
 # 💫 About Me:
    
-Hi there! I'm a passionate MERN developer with a love for coding and a deep interest in networking. I'm constantly seeking out new ways to grow my expertise and stay up-to-date with the latest technologies and best practices. I thrive on challenging projects that allow me to flex my problem-solving skills and develop creative solutions. When I'm not coding, I'm often attending tech meetups and conferences or reading up on the latest industry trends. Let's connect and collaborate on something exciting!
+Hi there! I'm a passionate MERN developer with a love for coding and a deep interest in networking. I have a love for growing my skills and am constantly seeking out new ways to expand my expertise, including in the blockchain sector and using AI and prompt. I have an understanding of DAPPs and am in the process of creating something on my own, which will take some time to finish. I am also focusing my skills on robotics and organic solutions and exploring how I can use code to benefit my growth in these fields, as well as in machine learning. Let's connect and collaborate on something exciting!
 
 
 
