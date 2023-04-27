@@ -6,7 +6,7 @@ Hi there! I'm a passionate MERN developer with a love for coding and a deep inte
 
 
 
-     💼    http://www.peterdquinn.com/   💼  [Peter Quinn Resume.pdf](https://github.com/PeterdQuinn/peterdQuinn/files/10714899/Peter.Quinn.Resume.pdf)
+ [Peter Quinn Resume.pdf](https://github.com/PeterdQuinn/peterdQuinn/files/10714899/Peter.Quinn.Resume.pdf)
 
 
 ## 🌐 Socials:
