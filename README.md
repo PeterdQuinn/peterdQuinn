@@ -5,7 +5,7 @@ Hi there! I'm a passionate MERN developer with a love for coding and a deep inte
 
 
 
-[Peter-Quinn-Updated-2023.pdf](https://github.com/PeterdQuinn/peterdQuinn/files/12010712/Peter-Quinn-Updated-2023.pdf)
+
 
 
 # 💻 Tech Stack:
