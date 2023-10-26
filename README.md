@@ -1,5 +1,4 @@
 
-https://github.com/PeterdQuinn/peterdQuinn/assets/75184837/5853580c-1703-42a1-9f65-96c25b0a5858
 
 
  
@@ -36,12 +35,12 @@ I’m on a mission to connect with like-minded enthusiasts, sharing a common zea
 
 [![](https://visitcount.itsvg.in/api?id=peterdquinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+🚀 Explore the Frontiers of A.I. with Us! 🚀
+
 [
-](https://github.com/PeterdQuinn/peterdQuinn/assets/75184837/5853580c-1703-42a1-9f65-96c25b0a5858)https://github.com/PeterdQuinn/peterdQuinn/assets/75184837/5853580c-1703-42a1-9f65-96c25b0a5858
-
-
-          
-
+](https://github-production-user-asset-6210df.s3.amazonaws.com/75184837/278500651-5853580c-1703-42a1-9f65-96c25b0a5858.mp4)https://github-production-user-asset-6210df.s3.amazonaws.com/75184837/278500651-5853580c-1703-42a1-9f65-96c25b0a5858.mp4
 
 
 
