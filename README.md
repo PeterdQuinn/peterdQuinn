@@ -4,7 +4,7 @@
  
 # 💫 About Me:
    
-Hi there! I'm a fervent MERN developer, deeply passionate about coding and networking. My journey is fueled by continuous growth and exploration of new realms such as blockchain, AI, and decentralized applications (DAPPs). Currently, I'm immersed in crafting a unique DAPP, a venture that's unfolding over time, revealing its marvels gradually.
+Hi there! I'm a Full stack developer, deeply passionate about coding and networking. My journey is fueled by continuous growth and exploration of new realms such as blockchain, AI, and decentralized applications (DAPPs). Currently, I'm immersed in crafting a unique DAPP, a venture that's unfolding over time, revealing its marvels gradually.
 
 My enthusiasm doesn’t stop there; I’m captivated by the profound realms of AI, particularly in harnessing its power to create intuitive and engaging prompts that enhance user experiences. My expertise also extends to SEO, where I employ strategic approaches to make content not just visible but vibrantly present and impactful on the internet.
 
