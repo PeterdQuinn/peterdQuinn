@@ -11,8 +11,9 @@ My enthusiasm doesn’t stop there; I’m captivated by the profound realms of A
 I’m on a mission to connect with like-minded enthusiasts, sharing a common zeal for uncovering the deeper layers of the digital world. Let’s join forces, share insights, and collaborate on something extraordinarily exciting and innovative. I’m always open to new connections and collaborative ventures that steer towards mutual growth and discovery.
 
 
+[Peter Quinn Web.pdf](https://github.com/user-attachments/files/15934950/Peter.Quinn.Web.pdf)
 
-[Resume24.pdf](https://github.com/user-attachments/files/15572042/Resume24.pdf)
+
 
 
 
