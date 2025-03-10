@@ -1,12 +1,11 @@
 
-💡 About Me:
-Hey there! I'm a Full Stack Developer and Digital Marketing Strategist, running Full Stack Services LLC, where I specialize in web development, AI automation, and SEO-driven digital strategies. I also work with businesses to scale their online presence, optimize conversions, and implement cutting-edge marketing solutions.
+# 💡 About Me:  
 
-Beyond my agency, I have a portfolio showcasing my work with various companies at PeterDQuinn.com. My expertise spans blockchain, AI, decentralized applications (DApps), and technical SEO, ensuring businesses stay ahead in the digital landscape.
+Hey there! I'm a **Full Stack Developer** and **Digital Marketing Strategist**, running [Full Stack Services LLC](https://www.fullstackservicesllc.net), where I specialize in **web development, AI automation, and SEO-driven digital strategies**. I also work with businesses to scale their online presence, optimize conversions, and implement cutting-edge marketing solutions.  
 
-I’m always looking to collaborate on innovative projects, connect with like-minded professionals, and explore emerging tech solutions that push boundaries. Let’s build something impactful together! 🚀
+Beyond my agency, I have a portfolio showcasing my work with various companies at [PeterDQuinn.com](https://www.peterdquinn.com). My expertise spans **blockchain, AI, decentralized applications (DApps), and technical SEO**, ensuring businesses stay ahead in the digital landscape.  
 
-
+I’m always looking to **collaborate on innovative projects**, connect with like-minded professionals, and explore **emerging tech solutions** that push boundaries. Let’s build something impactful together! 🚀
 
 
 
