@@ -14,7 +14,6 @@ I’m always looking to **collaborate on innovative projects**, connect with lik
 
 
 
-[Resume 2025.pdf](https://github.com/user-attachments/files/18221274/Resume.2025.pdf)
 
 
 
