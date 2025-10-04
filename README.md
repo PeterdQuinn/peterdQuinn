@@ -146,6 +146,8 @@ I'm always open to discussing interesting projects.
 
 ---
 
+
+
 <div align="center">
 
 **Phoenix, Arizona** • Open for consulting & project work
