@@ -16,7 +16,7 @@
 
 ## The Work
 
-I run **[Full Stack Services LLC](https://www.fullstackservicesllc.net)**, where we build platforms that scale and infrastructure that doesn't break. Most developers can build a website. I architect entire ecosystems—from frontend to database to cloud deployment—that handle real traffic, real users, and real money.
+I run **[Full Stack Services LLC](https://www.fullstackservicesllc.net)**, where we build platforms that scale and infrastructure that doesn't break. Most developers can build a website. I architect entire ecosystems—from frontend to database to cloud deployment that handle real traffic, real users, and real money.
 
 **What that actually means:**
 - You're launching an e-commerce platform that needs to handle thousands of concurrent users? Built it.
@@ -100,7 +100,7 @@ const portfolio = {
 ### What I've Built
 
 **Enterprise Infrastructure**  
-Designed and deployed multi-site content management systems handling millions in revenue. Built the backend architecture, optimized the frontend, managed the cloud infrastructure, and automated the marketing workflows. Everything worked together because one person understood the full stack.
+Designed and deployed multi site content management systems handling millions in revenue. Built the backend architecture, optimized the frontend, managed the cloud infrastructure, and automated the marketing workflows. Everything worked together because one person understood the full stack.
 
 **Cloud Migration at Scale**  
 Led a 70,000+ item migration to Google Cloud Platform for a major cannabis industry client. Zero downtime. Zero data loss. The kind of project where you get one shot to get it right.
